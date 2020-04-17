@@ -19,3 +19,5 @@ Left to right & right to left
 ## level-order, reversely
 
 print leaves first, Left to right & right to left
+
+<img src = "graphviz.png">
