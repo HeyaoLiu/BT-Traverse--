@@ -20,4 +20,6 @@ Left to right & right to left
 
 print leaves first, Left to right & right to left
 
+### Binary tree example
+
 <img src = "graphviz.png" height="400">
