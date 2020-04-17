@@ -10,7 +10,7 @@ public class Session {
                 {3, 2, 4},
                 {6, MIN, 8},
                 {8, 7, MIN}
-        };
+        };   
 
         BinaryTreeDemo btd = new BinaryTreeDemo();
 
