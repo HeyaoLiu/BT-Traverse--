@@ -20,4 +20,4 @@ Left to right & right to left
 
 print leaves first, Left to right & right to left
 
-<img src = "graphviz.png">
+<img src = "graphviz.png" height="100">
