@@ -20,6 +20,8 @@ Left to right & right to left
 
 print leaves first, Left to right & right to left
 
+### TC, SC, remaining to be done
+
 ### Binary tree example
 
 <img src = "graphviz.png" height="400">
